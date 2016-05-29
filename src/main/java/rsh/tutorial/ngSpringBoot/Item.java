@@ -15,6 +15,7 @@ public class Item {
 	private Boolean checked;
 	@Column
 	private String description;
+	
 	public Integer getId() {
 		return id;
 	}
